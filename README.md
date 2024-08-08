@@ -1,0 +1,1 @@
+This is a project which I made to understand how Nuxt Content works, and so I can come back later to reference it. 
